@@ -7,3 +7,4 @@ multipath-tcp-playground
 ### Concepts
 - [Multipath TCP — Multipath TCP -- documentation 2022 documentation](https://mptcp-apps.github.io/mptcp-doc/mptcp.html)
   - [Analysis of an Equal-Cost Multi-Path Algorithm](https://www.rfc-editor.org/rfc/rfc2992.txt)
+- [draft-ietf-quic-multipath-21 - Managing multiple paths for a QUIC connection](https://datatracker.ietf.org/doc/draft-ietf-quic-multipath/)
