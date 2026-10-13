@@ -1,5 +1,7 @@
 multipath-tcp-playground
 ========================
+`mptcpize run curl https://check.mptcp.dev`
+
 ### Tutorials
 - [Using Multipath TCP on recent Linux kernels — Multipath TCP -- documentation 2022 documentation](https://mptcp-apps.github.io/mptcp-doc/mptcp-linux.html#enabling-multipath-tcp)
 - [[OpenWrt Wiki] Multipath TCP and OpenWrt](https://openwrt.org/docs/guide-user/network/mptcp)
